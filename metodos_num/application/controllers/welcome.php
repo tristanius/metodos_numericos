@@ -19,7 +19,7 @@ class Welcome extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->load->view('home',array("vista"=>"test"));
+		$this->load->view('home',array("vista"=>"<div class='cuerpo-pr'>test</div>"));
 	}
 }
 

@@ -1,6 +1,6 @@
 		<header>
 			<div class="logo">
-				<img src="<?php echo base_url("assets/img/logo.png") ?>" />
+				<img src="<?php echo base_url("assets/img/logo.jpg") ?>" />
 			</div>
 			<div class="menu">
 				<ul>
